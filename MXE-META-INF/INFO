@@ -1,0 +1,5 @@
+Title: Image Recognition Using Resnet
+Id: sample.resnet50_model.int
+Version: 1.0.2
+Author: MXE
+Description: Resnet Image Recognition
